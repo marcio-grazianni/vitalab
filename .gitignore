@@ -2,6 +2,7 @@
 *.pyc
 *.swp
 *~
+*.ps1
 __pycache__
 .vscode
 .idea
